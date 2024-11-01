@@ -14,6 +14,9 @@ Database Management System: This project can be used with any SQL-compliant DBMS
 
 ## Query Results
 
+### 0. Entity Relationship Diagram (ERD)
+![Entity Relationship Diagram](https://github.com/nishikanta24/SQL_Music-_Store_Analysis/blob/main/Query%20pics/ERD.png)
+
 ### 1. Senior Most Employee
 ![Senior Most Employee](https://github.com/nishikanta24/SQL_Music-_Store_Analysis/blob/main/Query%20pics/Q1.png)
 
